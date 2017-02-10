@@ -16,6 +16,14 @@ $(function() {
         var image = document.createElement('img');
         image.setAttribute('src', course.badge);
         badge.appendChild(image);
+
+        var link = document.createElement('a');
+        link.setAttribute('href', course.url);
+        link.setAttribute('target', '_blank');
+        link.setAttribute('class', 'btn btn-primary');
+        link.appendChild(document.createTextNode('See Course'));
+        badge.appendChild(link);
+
         return badge;
       }).forEach(function(badge) {
         badges.appendChild(badge);
