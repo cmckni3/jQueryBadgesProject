@@ -1,5 +1,7 @@
 # Use jQuery to Fetch and Show Code School Badges Using Ajax
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cmckni3/jQueryBadgesProject.svg)](https://greenkeeper.io/)
+
 You’ll build a personal web page that displays the courses you’ve completed on Code School by pulling data from the Code School website.
 
 ![Poster](http://courseware.codeschool.com.s3.amazonaws.com/projects/use-jquery-to-fetch-and-show-code-school-badges-using-ajax.png)
