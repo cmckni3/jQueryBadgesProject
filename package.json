@@ -18,7 +18,7 @@
     "chai": "^3.5.0",
     "javascript-sandbox": "git+https://github.com/codeschool/javascript-sandbox.git",
     "jsdom": "^9.4.1",
-    "mocha": "^3.0.1",
+    "mocha": "^4.0.0",
     "sinon": "^1.17.5"
   },
   "engines": {
