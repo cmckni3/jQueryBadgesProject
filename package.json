@@ -19,7 +19,7 @@
     "javascript-sandbox": "git+https://github.com/codeschool/javascript-sandbox.git",
     "jsdom": "^9.4.1",
     "mocha": "^3.0.1",
-    "sinon": "^1.17.5"
+    "sinon": "^4.1.0"
   },
   "engines": {
     "node": ">=4.6",
