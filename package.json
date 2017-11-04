@@ -27,5 +27,10 @@
   },
   "babel": {
     "presets": ["es2015"]
+  },
+  "greenkeeper": {
+    "ignore": [
+      "sinon"
+    ]
   }
 }
