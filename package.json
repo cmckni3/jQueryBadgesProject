@@ -30,7 +30,8 @@
   },
   "greenkeeper": {
     "ignore": [
-      "sinon"
+      "sinon",
+      "jsdom"
     ]
   }
 }
